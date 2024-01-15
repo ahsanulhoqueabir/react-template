@@ -5,6 +5,13 @@
 
 # A Simple Vite-React App template
 
+## Included 
+
+- Tailwind
+- daisyUI
+- React Icon
+- React Router 
+- Lottie Animation
 
 
 
