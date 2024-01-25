@@ -5,18 +5,14 @@
 
 # A Simple Vite-React App template
 
-## Included 
+## Included
 
 - Tailwind
+- Added utility function cn() to overwriting tailwind className and others funtionality to components
 - daisyUI
 - React Icon
-- React Router 
+- React Router
 - Lottie Animation
-
-
-
-
-
 
 <!-- Social Media Link -->
 
