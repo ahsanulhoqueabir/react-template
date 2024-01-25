@@ -13,6 +13,7 @@
 - React Icon
 - React Router
 - Lottie Animation
+- eslint props warning disabled
 
 <!-- Social Media Link -->
 
