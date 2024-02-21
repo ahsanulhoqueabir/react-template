@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="p-20">
       <h1>React App</h1>
-      <Button >AHSANUL</Button>
+      <Button type="submit" >AHSANUL</Button>
       <Outlet />
     </div>
   );
