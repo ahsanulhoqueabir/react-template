@@ -14,6 +14,8 @@
 - React Router
 - Lottie Animation
 - eslint props warning disabled
+- Axios
+- Firebase
 
 <!-- Social Media Link -->
 
